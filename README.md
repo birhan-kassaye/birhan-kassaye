@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+kingkelv20;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+birhan-kassaye;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 # Hi I'm Birhan Yalew.👋
 
 ### I am a Software Engineering student at ALX. `I learn by doing....`
