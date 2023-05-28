@@ -15,4 +15,4 @@
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
 * [GitHub](https://github.com/)
-* [QUORA] (https://quora.com/)
+* [QUORA](https://quora.com/)
