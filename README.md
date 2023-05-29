@@ -1,6 +1,6 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+birhan-kassaye;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
-# Hi I'm Birhan Yalew.👋
+# Hi I'm Birhan Yalew Kassaye.👋
 
 ### I am a Software Engineering student at ALX. `I learn by doing....`
 
